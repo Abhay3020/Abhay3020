@@ -10,11 +10,6 @@
     Competitive Programmer | IoT Enthusiast
   </p>
   
-  <p>
-    <img src="https://img.shields.io/badge/Dallas-FYFF?style=flat&logo=google-maps&logoColor=white">
-    <img src="https://img.shields.io/badge/abhaysambekar@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white">
-    <img src="https://img.shields.io/badge/@Abhay3020-1DA1F2?style=flat&logo=twitter&logoColor=white">
-  </p>
 </div>
 
 ---
