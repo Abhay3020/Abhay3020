@@ -56,11 +56,33 @@ User auth, review tracking, and collaborative suggestions (WIP)
 
 ---
 
-## 📫 Let's Connect
+## 📚 Certifications
 
-- [LinkedIn](https://www.linkedin.com/in/abhay3020)
-- [Portfolio](https://incandescent-truffle-45daef.netlify.app)
-- [Email](mailto:abhaysambekar@gmail.com)
+- [Introduction to TensorFlow for AI, ML, and DL – Coursera](https://www.coursera.org/account/accomplishments/verify/JEZSHXDD5C7W)
+- [Bayesian Statistics – Coursera](https://www.coursera.org/account/accomplishments/verify/9HSYUWDE3TSK)
+- [Inferential Statistics – Coursera](https://www.coursera.org/account/accomplishments/verify/GRXUXEB7DHFT)
+
+---
+
+## 🧠 Tools I Love Working With
+
+- VS Code + GitHub Copilot  
+- Supabase (super dev-friendly 🔥)  
+- Jenkins + Ansible for automating backend workflows  
+- Docker + Kubernetes for clean deployment pipelines  
+- Postman for efficient API testing  
+- React + Vite for frontend prototyping  
+
+---
+
+## 🤝 Open to Collaborate
+
+I’m always open to collaborating on:
+- LLM/AI-powered apps and research
+- Backend automation, real-time APIs, or data pipelines
+- Projects that solve real-world, impact-driven problems
+
+Feel free to [email me](mailto:abhaysambekar@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/abhay3020)!
 
 ---
 
