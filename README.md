@@ -1,90 +1,78 @@
-<div align="center">
-  <img src="https://github.com/Abhay3020.png" width="200" style="border-radius: 50%;"/>
-  
-  <h1>Abhay Ambekar</h1>
-  <h3>abhay3020</h3>
-  
-  <p>
-    <strong>Software Engineer</strong> | Data Pipeline Specialist | Cloud Solutions Architect
-    <br>
-    Competitive Programmer | IoT Enthusiast
-  </p>
-  
-</div>
+[![Abhay's GitHub Banner](https://raw.githubusercontent.com/Abhay3020/Abhay3020/main/assets/GitHubHeader.png)](https://incandescent-truffle-45daef.netlify.app/)
 
----
+[![Visits Badge](https://badges.pufler.dev/visits/Abhay3020/Abhay3020)](https://incandescent-truffle-45daef.netlify.app/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Abhay3020)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/abhay3020/)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-informational?style=flat&logo=leetcode&logoColor=white&color=FFA116)](https://leetcode.com/Abhay3020/)
 
-### HI, I'M ABHAY AMBEKAR 👋
+Hey there 👋
 
-I'm a **Software Engineer at PWC** specializing in building high-performance data pipelines and cloud-native applications. I transform complex data challenges into scalable solutions through code and system architecture.
+I'm Abhay, a **Software Engineer at PWC** specializing in data pipelines, cloud solutions, and full-stack development. I architect systems that process millions of records efficiently while ensuring reliability and performance.
 
-🔹 **1.5+ years** experience in enterprise data engineering  
-🔹 **92% accuracy** IoT solution developer  
-🔹 **LeetCode** competitor (Top 15%)  
-🔹 Passionate about **performance optimization** and **distributed systems**
+Want to see my work? [Check out my portfolio.](https://incandescent-truffle-45daef.netlify.app/)
 
-[![Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://incandescent-truffle-45daef.netlify.app/)
+## 🏆 Professional Achievements
 
----
+- Automated **15+ ETL pipelines** (40% faster processing)
+- Optimized SQL queries for **500M+ row datasets** (50% performance gain)
+- Developed IoT solution with **92% detection accuracy**
+- Built full-stack apps handling **500+ concurrent users**
 
-### 🏆 Professional Highlights
+## 🚀 Featured Projects
 
-✔ **Automated 15+ ETL pipelines** at PWC (40% faster processing)  
-✔ **Optimized SQL queries** handling 500M+ rows (50% performance gain)  
-✔ **Built CI/CD pipelines** reducing deployment cycles by 20%  
-✔ **Developed award-winning** IoT pothole detection system (92% accuracy)  
-✔ **Created full-stack apps** handling 500+ concurrent users  
+<a href="https://github.com/Abhay3020/trump-of-the-day">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhay3020&repo=trump-of-the-day&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
----
+<a href="https://github.com/Abhay3020/Pothole_detection">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhay3020&repo=Pothole_detection&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
-### 🚀 Featured Projects
+## 🛠️ Technical Skills
 
-#### [Trump of the Day](https://trumpoftheday.com) | [Code](https://github.com/Abhay3020/trump-of-the-day)
-Political news aggregator with React/Node.js  
-✓ Real-time updates with sub-second latency  
-✓ Google OAuth/JWT security (zero breaches)  
-✓ BERT AI summarization integration  
+### Data Engineering
+![](https://img.shields.io/badge/Code-Informatica-informational?style=flat&logo=informatica&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Airflow-informational?style=flat&logo=apacheairflow&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Spark-informational?style=flat&logo=apachespark&logoColor=white&color=4AB197)
 
-#### [Pothole Detection System](https://github.com/Abhay3020/Pothole_detection)
-IoT road monitoring solution  
-✓ 92% detection accuracy using sensor fusion  
-✓ Node.js backend processing 50+ events/sec  
-✓ 30% faster municipal response in pilot  
+### Cloud & DevOps
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=4AB197)
 
----
+### Full Stack Development
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
 
-### 🛠️ Tech Stack
+<details>
+<summary>More Skills</summary>
+<br>
 
-**Cloud & DevOps:**  
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitHub_Actions-informational?style=flat&logo=githubactions&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=4AB197)
 
-**Data Engineering:**  
-![Informatica](https://img.shields.io/badge/Informatica-FF5722?logo=informatica&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white)
+</details>
 
-**Full Stack:**  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+## 📊 GitHub Stats
 
----
+<a href="https://github.com/Abhay3020">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay3020&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
-### 📊 GitHub Stats
+<a href="https://github.com/Abhay3020">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Abhay3020&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Abhay's GitHub Stats" />
+</a>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhay3020&show_icons=true&theme=merko" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay3020&layout=compact&theme=merko" width="48%">
-</div>
+## 📫 Let's Connect
 
----
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhay3020)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Abhay3020/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/abhay3020)
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhaysambekar@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://incandescent-truffle-45daef.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/abhay3020/)
+[![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&logoColor=white&color=EA4335)](mailto:abhaysambekar@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-informational?style=flat&logo=firefox&logoColor=white&color=FF7139)](https://incandescent-truffle-45daef.netlify.app/)
